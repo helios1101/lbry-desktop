@@ -818,5 +818,7 @@
   "Anonymous content is published without a channel.": "Anonymous content is published without a channel.",
   "settings": "settings",
   "Content may be hidden on this %type% because of your %settings%": "Content may be hidden on this %type% because of your %settings%",
-  "Content may be hidden on this %type% because of your %settings%.": "Content may be hidden on this %type% because of your %settings%."
+  "Content may be hidden on this %type% because of your %settings%.": "Content may be hidden on this %type% because of your %settings%.",
+  "Advanced Editor": "Advanced Editor",
+  "If you bid more than %amount% LBC, when someone navigates to %uri%, it will load your published content. However, you can get a longer version of this URL for any bid.": "If you bid more than %amount% LBC, when someone navigates to %uri%, it will load your published content. However, you can get a longer version of this URL for any bid."
 }
